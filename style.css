@@ -169,6 +169,7 @@ input {
 .nav__logo img {
   font-weight: var(--font-semi-bold);
   width: 100px;
+  margin: auto;
 }
 
 .nav__toggle {
