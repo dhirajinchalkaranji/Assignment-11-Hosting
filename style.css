@@ -660,6 +660,10 @@ input {
 
   }
 
+  .home__container1{
+    margin-top: 5rem;
+  }
+
   .home__img{
     width: 100%;
   }
