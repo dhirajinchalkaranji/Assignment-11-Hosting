@@ -661,7 +661,8 @@ input {
   }
 
   .home__container1{
-    margin-top: 5rem;
+    margin-top: 7rem;
+   
   }
 
   .home__img{
@@ -850,6 +851,11 @@ input {
     font-size: 3rem;
   }
 
+  .home__heading1{
+    font-size: 3rem;
+    padding-right: 1rem;
+  }
+
   .home__button{
     align-items: left;
   }
@@ -948,6 +954,10 @@ input {
   .home__img {
     width: 60%;
     padding-right: 0rem;
+  }
+
+  .home__container1{
+  width: 70%;
   }
 
   .technical__img{
