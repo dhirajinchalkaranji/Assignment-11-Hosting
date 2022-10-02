@@ -162,13 +162,14 @@ input {
 }
 
 .nav__logo {
-  margin-top: 6px;
+  margin-left: -3px;
 }
 
 .nav__logo img {
   font-weight: var(--font-semi-bold);
-  width: 100px;
+  width: 80px;
   margin: auto;
+  margin-top: 3px;
 }
 
 .nav__toggle {
